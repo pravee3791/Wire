@@ -1,3 +1,18 @@
+This is the Front End Application for the assignment for the Wire . This is an package search appliation with following Features
+- Ability to show the libraries.io packages in home page
+- Ability to search for packages based on keywords
+- Paginated view
+
+Following are the salient features of the Application
+- Responsive for Desktop and Laptop
+- Uses the function component
+- Uses React Redux to share the data
+- Uses Type Script
+- Custom Css (no use of external CSS libraries)
+- Routing
+- Unit test case coverage
+
+Below are the external dependencies - React-icons for icons - React- Loader for loader component
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
