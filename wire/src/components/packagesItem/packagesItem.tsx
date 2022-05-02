@@ -12,16 +12,12 @@ function PackagesItem(props: IPackageItem) {
   
   return (
     <>
-     
-      <div>
+      <div>  
         <figure className="card">
-         
           <figcaption>
             <h2>{props.item.name}</h2>
-            <p>{props.item.stars}</p>
-            <span className="read-more">
-              Read More
-            </span>
+            <p>{props.item.description}</p>
+           
           </figcaption>
         </figure>
       </div>
